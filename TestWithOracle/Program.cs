@@ -1,14 +1,11 @@
-﻿using Oracle.ManagedDataAccess.Client;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace TestWithOracle
 {
-    class Program
+    internal class Program
     {
         public static void Main(string[] args)
         {
@@ -62,7 +59,7 @@ namespace TestWithOracle
         private static long GiaiThua(int v)
         {
             long res;
-            if (v ==1)
+            if (v == 1)
             {
                 return 1;
             }
@@ -99,7 +96,6 @@ namespace TestWithOracle
             }
         }
 
-
         /// <summary>
         /// TÌm kiếm nhị phân
         /// </summary>
@@ -110,7 +106,7 @@ namespace TestWithOracle
         public static int Search(int[] a, int n, int x)
         {
             int i;
-            for ( i = 0; i < n; i++)
+            for (i = 0; i < n; i++)
                 if (a[i] == x)
                     return i;
             return -1;
@@ -121,16 +117,15 @@ namespace TestWithOracle
         /// </summary>
         /// <param name="f0">Số hạng đầu tiên</param>
         /// <param name="f1">Số hạng thứ 2</param>
-        public static void Fibonaci(int f0 =0, int f1=1)
+        public static void Fibonaci(int f0 = 0, int f1 = 1)
         {
             for (int i = 1; i < 30; i++)
             {
                 int fb = f0 + f1;
                 f0 = f1;
                 f1 = fb;
-                Console.Write(fb+"; ");
+                Console.Write(fb + "; ");
             }
-
         }
 
         /// <summary>
