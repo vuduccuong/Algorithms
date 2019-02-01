@@ -17,7 +17,6 @@ namespace Insertion_Sort
             {
                 Console.Write(item + "; ");
             }
-
             Insertion_Sort(arr);
             Console.ReadLine();
         }
