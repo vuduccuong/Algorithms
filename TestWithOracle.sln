@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Maximal Adjacent Difference", "Array Maximal Adjacent Difference\Array Maximal Adjacent Difference.csproj", "{89F901E3-0083-4EDA-B64F-39AB3D5E0867}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check IPv4 Address", "Check IPv4 Address\Check IPv4 Address.csproj", "{51C80D62-58FF-4D24-888D-449849D43A8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{89F901E3-0083-4EDA-B64F-39AB3D5E0867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89F901E3-0083-4EDA-B64F-39AB3D5E0867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89F901E3-0083-4EDA-B64F-39AB3D5E0867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C80D62-58FF-4D24-888D-449849D43A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C80D62-58FF-4D24-888D-449849D43A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C80D62-58FF-4D24-888D-449849D43A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C80D62-58FF-4D24-888D-449849D43A8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
