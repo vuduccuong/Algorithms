@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCLN", "UCLN\UCLN.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\palindrome.csproj", "{C5802645-018A-420F-88A8-11D58C5ACF98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Maximal Adjacent Difference", "Array Maximal Adjacent Difference\Array Maximal Adjacent Difference.csproj", "{89F901E3-0083-4EDA-B64F-39AB3D5E0867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{C5802645-018A-420F-88A8-11D58C5ACF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5802645-018A-420F-88A8-11D58C5ACF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5802645-018A-420F-88A8-11D58C5ACF98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F901E3-0083-4EDA-B64F-39AB3D5E0867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F901E3-0083-4EDA-B64F-39AB3D5E0867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F901E3-0083-4EDA-B64F-39AB3D5E0867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F901E3-0083-4EDA-B64F-39AB3D5E0867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
