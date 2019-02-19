@@ -19,7 +19,9 @@ namespace Oẳn_tù_tì
             }
             //Console.ReadLine();
         }
-
+        /// <summary>
+        /// /
+        /// </summary>
         private static void GameBegin()
         {
             int yourNumber;

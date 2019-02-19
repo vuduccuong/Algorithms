@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular Expression", "Regul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oẳn tù tì", "Oẳn tù tì\Oẳn tù tì.csproj", "{8DA6CDF0-508E-4377-A3A5-1022A74D2F0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCLN", "UCLN\UCLN.csproj", "{531D1CB8-FD7D-4F4B-9527-86565774782D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\palindrome.csproj", "{C5802645-018A-420F-88A8-11D58C5ACF98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{8DA6CDF0-508E-4377-A3A5-1022A74D2F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DA6CDF0-508E-4377-A3A5-1022A74D2F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DA6CDF0-508E-4377-A3A5-1022A74D2F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531D1CB8-FD7D-4F4B-9527-86565774782D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531D1CB8-FD7D-4F4B-9527-86565774782D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531D1CB8-FD7D-4F4B-9527-86565774782D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531D1CB8-FD7D-4F4B-9527-86565774782D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5802645-018A-420F-88A8-11D58C5ACF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5802645-018A-420F-88A8-11D58C5ACF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5802645-018A-420F-88A8-11D58C5ACF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5802645-018A-420F-88A8-11D58C5ACF98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
